@@ -1,2 +1,0 @@
-PatientID,Pregnancies,PlasmaGlucose,DiastolicBloodPressure,TricepsThickness,SerumInsulin,BMI,DiabetesPedigree,Age
-1883350,9,103,78,25,304,29.58219193,1.282869847,43
